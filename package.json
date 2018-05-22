@@ -1,0 +1,37 @@
+{
+  "name": "walter-podspec",
+  "version": "0.1.0",
+  "description": "Automatic Podfile generator based on a module's package.json, for cordova modules on iOS.",
+  "main": "./lib/index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "walter-podspec": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lixiaoyu/walter-podspec.git"
+  },
+  "keywords": [
+    "cocoapods",
+    "podspec",
+    "cordova",
+    "ios"
+  ],
+  "author": "walter lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "ttps://github.com/lixiaoyu/walter-podspec/issues"
+  },
+  "homepage": "ttps://github.com/lixiaoyu/walter-podspec#readme",
+  "dependencies": {
+    "camelcase": "^3.0.0",
+    "change-case": "^3.0.0",
+    "email-addresses": "^2.0.2",
+    "jsonfile": "^2.4.0",
+    "minimist": "^1.2.0",
+    "path-resolve": "0.0.1"
+  }
+}
