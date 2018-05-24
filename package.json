@@ -24,9 +24,9 @@
   "author": "walter lee",
   "license": "ISC",
   "bugs": {
-    "url": "ttps://github.com/lixiaoyu/walter-podspec/issues"
+    "url": "https://github.com/lixiaoyu/walter-podspec/issues"
   },
-  "homepage": "ttps://github.com/lixiaoyu/walter-podspec#readme",
+  "homepage": "https://github.com/lixiaoyu/walter-podspec#readme",
   "dependencies": {
     "camelcase": "^3.0.0",
     "change-case": "^3.0.0",
