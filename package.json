@@ -1,6 +1,6 @@
 {
   "name": "walter-podspec",
-  "version": "0.1.1.1",
+  "version": "0.1.3",
   "description": "Automatic Podfile generator based on a module's package.json, for cordova modules on iOS.",
   "main": "./lib/index.js",
   "preferGlobal": "true",
